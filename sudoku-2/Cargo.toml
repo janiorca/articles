@@ -1,0 +1,6 @@
+[package]
+name = "sudoku-2"
+version = "0.1.0"
+authors = ["Jani Peltonen<jani.peltonen@gmail.com>"]
+
+[dependencies]
