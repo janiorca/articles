@@ -1,0 +1,8 @@
+[package]
+name = "mod_player-4"
+version = "0.1.0"
+authors = ["Jani Peltonen<jani.peltonen@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+cpal = "0.8.2"
